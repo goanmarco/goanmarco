@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📊 Marco Vicente's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goanmarco&show_icons=true&theme=tokyonight)
+
+
 <!--
 **goanmarco/goanmarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
